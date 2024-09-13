@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-irunil6s-projects.vercel.app/api/wakatime?username=irunil6&layout=compact" />
+  <img src="https://github-readme-stats-irunil6s-projects.vercel.app/api/wakatime?username=irunil6&layout=compact&theme=transparent&text_color=7a7a7a&hide_border=true" />
 </div>
 
 <!--
