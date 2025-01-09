@@ -10,8 +10,8 @@ I switched to <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="
 
 - Basically, all my developments were commercial and it was not possible to output them to <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="35" /></a>  <br/><br/>
 
-- 🔭 I\`m also the founder of the game studio :heart_eyes:[EHOT Studio](https://github.com/EHOT-Studio)
-- 🌑 I`m currently working on [VoxelEngine-Sharp](https://github.com/EHOT-Studio/VoxelEngine-Sharp)
+- 🔭 I\`m also the founder of the studio :heart_eyes:[Raycynix](https://github.com/Raycynix)
+<!--- 🌑 I`m currently working on [VoxelEngine-Sharp](https://github.com/EHOT-Studio/VoxelEngine-Sharp) -->
 
 ## <div align="center">GitHub Stats</div>
 
@@ -27,18 +27,3 @@ I switched to <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=irunil6&color=grey&style=for-the-badge" align="center" />
 </div>  
-
-<!--
-**IruNil6/IruNil6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
