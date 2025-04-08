@@ -31,3 +31,8 @@ I switched to <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="
   [![wakatime](https://wakatime.com/badge/user/ac33eb3f-f975-4476-b48a-5151dc96b072.svg?style=for-the-badge)](https://wakatime.com/@ac33eb3f-f975-4476-b48a-5151dc96b072?style=for-the-badge)
   
 </div>  
+
+## <div align="center">Wanna Support Me?</div>
+<div align=center>
+  <a href="https://boosty.to/irunil6/donate" target="_blank" style="display: inline-block;"><img src="https://img.shields.io/badge/Boosty-F15F2C?style=for-the-badge&logo=boosty&color=grey" alt="boosty"/></a>
+</div>
