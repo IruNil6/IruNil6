@@ -16,18 +16,18 @@ I switched to <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="
 ## <div align="center">GitHub Stats</div>
 
 <div align="center">
-  <img src="https://github-readme-irunil6s.vercel.app/api/top-langs/?username=irunil6&layout=donut&langs_count=6&exclude_repo=github-readme-stats&theme=transparent&text_color=7a7a7a&hide_border=true" />
-  <img valign="top" src="https://github-readme-irunil6s.vercel.app/api?username=irunil6&hide_title=false&theme=transparent&show_icons=true&count_privete=true&include_all_commits=true&text_color=7a7a7a&hide_border=true&rank_icon=github"/>
+  <img src="https://github-readme-stats-irunil6.vercel.app/api/top-langs/?username=irunil6&layout=donut&langs_count=6&exclude_repo=github-readme-stats&theme=transparent&text_color=7a7a7a&hide_border=true" />
+  <img valign="top" src="https://github-readme-stats-irunil6.vercel.app/api?username=irunil6&hide_title=false&theme=transparent&show_icons=true&count_privete=true&include_all_commits=true&text_color=7a7a7a&hide_border=true&rank_icon=github"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-irunil6s.vercel.app/api/wakatime?username=irunil6&layout=compact&theme=transparent&text_color=7a7a7a&hide_border=true" />
+  <img src="https://github-readme-stats-irunil6.vercel.app/api/wakatime?username=irunil6&layout=compact&theme=transparent&text_color=7a7a7a&hide_border=true" />
 </div>
 
 <div align="center">  
 
   [![github](https://img.shields.io/github/followers/irunil6?logo=github&style=for-the-badge&color=red)](https://github.com/irunil6?tab=followers)
-  [![profileviews](https://komarev.com/ghpvc/?username=irunil6&color=grey&style=for-the-badge)](https://github.com/IruNil6)
+  [![profileviews](https://komarev.com/ghpvc/?username=irunil6&color=grey&style=for-the-badge)](https://github.com/irunil6)
   [![wakatime](https://wakatime.com/badge/user/ac33eb3f-f975-4476-b48a-5151dc96b072.svg?style=for-the-badge)](https://wakatime.com/@ac33eb3f-f975-4476-b48a-5151dc96b072?style=for-the-badge)
   
 </div>  
